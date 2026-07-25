@@ -1,0 +1,9 @@
+{
+  "system_id": "qwen-vl-flash-router",
+  "shadow_mode": "ACTIVE",
+  "mastermind_synced": true,
+  "telemetry": {
+    "padding_saved_percent": 14.8,
+    "status": "FLASH_ROUTER_OPTIMAL"
+  }
+}
