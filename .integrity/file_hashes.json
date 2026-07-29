@@ -1,16 +1,16 @@
 {
-  "repo": "qwen-vl-flash-router",
-  "algorithm": "sha256",
-  "file_count": 9,
+  "file_count": 11,
   "hashes": {
-    "README.md": "d69845ed4aff5e47ac4bd010d4f390086ecfab9612152225bcf31cb31ff8f9fb",
-    "AKOS.md": "8a766a9aa935fb71c362e26e65b03a3854642b525393bfbae8557fe419973beb",
     "AGENTS.md": "379c1dc5ae905d0783c7c92ac725e771f361bb85cecf48858f1b554b9258e309",
-    "HELIX_STRAND.md": "84b973883b488613702f7a9ddf8d28696f7cacd87648a96b056167b2cdccaf7d",
-    "mastermind_sidecar.py": "0728a348ad68101dbd713880068788e6c312dee5e1dd9bad1a02e33c1f14739f",
-    "SECURITY_AND_FLEET_OPS.md": "26141c0f07d95847d679de423ddb7bdee6f3e319d204383c89a58d6d3bb610c7",
+    "AKOS.md": "8a766a9aa935fb71c362e26e65b03a3854642b525393bfbae8557fe419973beb",
     "HELIX.md": "7ac4aff78e4dba1a681fe6fd3cbdd5240cccb2dd8b71b7a2923599b348dc6d00",
-    "tests/test_qwen.py": "9f6239e8e345f8cc22f501aab86054284ed2ad7e4ccc7a2968fc141e6758b019",
-    "src/qwen_vl_flash_router.py": "121aa0d8e60d8514c4056dfd0dcc40b1ba9ae15f82b7e843951c472a985ed14f"
+    "HELIX_STRAND.md": "84b973883b488613702f7a9ddf8d28696f7cacd87648a96b056167b2cdccaf7d",
+    "README.md": "0c9b4b26b8ae34d82f75be6bd8072203861a902c89c4a9495bacfd6e82611ec7",
+    "SECURITY_AND_FLEET_OPS.md": "26141c0f07d95847d679de423ddb7bdee6f3e319d204383c89a58d6d3bb610c7",
+    "mastermind_sidecar.py": "0728a348ad68101dbd713880068788e6c312dee5e1dd9bad1a02e33c1f14739f",
+    "src/flash_router.ts": "663558931aed77f5d615faf5948c695cfbf35f0fa3510a68c03128a159b1de4e",
+    "src/qwen_vl_flash_router.py": "121aa0d8e60d8514c4056dfd0dcc40b1ba9ae15f82b7e843951c472a985ed14f",
+    "src/vision_pipeline.cu": "4cdb21a5ba4181cb823b15fb92bbfe32c74b6429313b268a0935b56987136a56",
+    "tests/test_qwen.py": "9f6239e8e345f8cc22f501aab86054284ed2ad7e4ccc7a2968fc141e6758b019"
   }
 }
