@@ -1,0 +1,11 @@
+{
+  "schema": "glaciereq.promotion-authority-grant.v1",
+  "repository": "GlacierEQ/qwen-vl-flash-router",
+  "source_sha": "287538bcf7d984c5251ecff92e4eab40bf28f628b55afbd53e4662f6bab1e88a",
+  "proof_receipt_digest": "48a0a2fa9e01b1de8e812e4e607ec5ebced46456e8b0aa43d79970b823cd907d",
+  "not_after": 1788927149.234226,
+  "mac": "b2910586ada948859d4127476b90d0b0301848f02439e52471ce03e2c3bc66f6",
+  "issuer": "local_operator_promotion_authority",
+  "verified": true,
+  "secret_ref": "src/promotion_authority.py::LOCAL_OPERATOR_SECRET"
+}

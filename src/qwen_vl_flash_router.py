@@ -43,6 +43,5 @@ class QwenVLFlashRouter:
             "text_tokens": text_token_count,
             "total_tokens": total_tokens,
             "padding_saved_percent": round(padding_saved_pct, 2),
-            "status": "FLASH_ROUTER_OPTIMAL",
-            "answer": 42
-        }
+            "status": "FLASH_ROUTER_OPTIMAL"
+            }

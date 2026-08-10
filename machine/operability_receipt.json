@@ -1,0 +1,34 @@
+{
+  "schema": "glaciereq.operability-receipt.v1",
+  "repository": "GlacierEQ/qwen-vl-flash-router",
+  "at": "2026-08-10T04:12Z",
+  "source_sha": "287538bcf7d984c5251ecff92e4eab40bf28f628b55afbd53e4662f6bab1e88a",
+  "entry": "scripts/operate.py",
+  "primary_output": {
+    "module": "qwen_vl_flash_router",
+    "ok": true,
+    "repository": "GlacierEQ/qwen-vl-flash-router",
+    "smoke": {
+      "args": [
+        "[]",
+        "1"
+      ],
+      "content_checked": true,
+      "invoked": true,
+      "kind": "class",
+      "method": "pack_visual_and_route",
+      "module_local": true,
+      "name": "QwenVLFlashRouter",
+      "result": {
+        "images_processed": 0,
+        "padding_saved_percent": 0.0,
+        "status": "FLASH_ROUTER_OPTIMAL",
+        "text_tokens": 1,
+        "total_tokens": 1,
+        "visual_tokens": 0
+      }
+    }
+  },
+  "dual_run_ok": true,
+  "result": "PASS"
+}
